@@ -1,7 +1,7 @@
 # MyRustServer Version Tracker
 
 This repository holds the automatically maintained `version.json` for MyRustServer.  
-It is regularly updated via a custom-built VB.NET application.
+It is regularly updated via a custom-built C# application.
 
 ## 🔁 Automated Workflow
 
