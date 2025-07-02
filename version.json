@@ -1,13 +1,13 @@
 {
   "Server": {
-    "public": "18796391",
+    "public": "18796303",
     "aux01": "19062539",
     "aux02": "19079582",
     "debug": "17041002",
     "staging": "19081646"
   },
   "Oxide": {
-    "public": "2.0.6493",
+    "public": "2.0.6492",
     "staging": "2.0.6497"
   },
   "Carbon": {
@@ -20,7 +20,7 @@
     "Aux3": "2.7.223"
   },
   "MyRustServer": {
-    "public": "4.9.5",
-    "beta": "5.0.3"
+    "public": "public-4.9.5",
+    "beta": "beta-5.0.0"
   }
 }
