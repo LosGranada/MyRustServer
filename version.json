@@ -4,7 +4,7 @@
     "aux01": "19672576",
     "aux02": "19439083",
     "debug": "17041002",
-    "staging": "19742912"
+    "staging": "19743361"
   },
   "Oxide": {
     "public": "2.0.6550",
@@ -21,6 +21,6 @@
   },
   "MyRustServer": {
     "public": "public-4.9.5",
-    "beta": "beta-5.0.9"
+    "beta": "beta-5.0.9-test"
   }
 }
