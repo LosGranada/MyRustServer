@@ -8,7 +8,7 @@
   },
   "Oxide": {
     "public": "2.0.6573",
-    "staging": "2.0.6569-staging"
+    "staging": "2.0.6569"
   },
   "Carbon": {
     "Production": "2.0.205",
@@ -20,10 +20,7 @@
     "Aux3": "2.7.223"
   },
   "MyRustServer": {
-    "public": "103",
-    "beta": "88"
-  },
-  "Client": {
-    "public": "19854140"
+    "public": "public-4.9.5",
+    "beta": "beta-5.0.9"
   }
 }
