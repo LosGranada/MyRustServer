@@ -20,7 +20,10 @@
     "Aux3": "2.7.223"
   },
   "MyRustServer": {
-    "public": "public-4.9.5",
-    "beta": "beta-5.0.9"
+    "public": "4.9.5",
+    "beta": "5.0.3"
+  },
+  "Client": {
+    "public": "19776807"
   }
 }
