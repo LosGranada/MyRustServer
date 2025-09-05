@@ -11,10 +11,10 @@
     "staging": "2.0.6569-staging"
   },
   "Carbon": {
-    "Production": "2.0.205",
-    "Preview": "2.2.137",
+    "Production": "2.0.207",
+    "Preview": "2.2.139",
     "Edge": "2.1.869",
-    "Staging": "2.3.816",
+    "Staging": "2.3.818",
     "Aux1": "2.5.500",
     "Aux2": "2.6.510",
     "Aux3": "2.7.223"
