@@ -1,5 +1,11 @@
 {
-  "Server": {},
+  "Server": {
+    "public": "20253864",
+    "aux01": "20214000",
+    "aux02": "20095685",
+    "debug": "17041002",
+    "staging": "20279073"
+  },
   "Oxide": {
     "public": "2.0.6603",
     "staging": "2.0.6604-staging"
