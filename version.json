@@ -7,11 +7,11 @@
     "staging": "20513348"
   },
   "Oxide": {
-    "public": "2.0.6608",
+    "public": "2.0.6613",
     "staging": "2.0.6610-staging"
   },
   "Carbon": {
-    "Production": "2.0.214",
+    "Production": "2.0.215",
     "Preview": "2.2.140",
     "Edge": "2.1.931",
     "Staging": "2.3.889",
