@@ -1,6 +1,6 @@
 {
   "Server": {
-    "public": "20709915",
+    "public": "20721588",
     "aux01": "20716357",
     "aux02": "20579660",
     "debug": "17041002",
@@ -8,7 +8,7 @@
   },
   "Oxide": {
     "public": "2.0.6633",
-    "staging": "2.0.6631-staging"
+    "staging": "2.0.6634-staging"
   },
   "Carbon": {
     "Production": "2.0.217",
@@ -24,6 +24,6 @@
     "beta": "beta-5.0.9"
   },
   "Client": {
-    "public": "20710168"
+    "public": "20721683"
   }
 }
