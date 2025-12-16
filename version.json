@@ -4,16 +4,16 @@
     "aux01": "21026880",
     "aux02": "20963797",
     "debug": "17041002",
-    "staging": "21206402"
+    "staging": "21206715"
   },
   "Oxide": {
     "public": "2.0.6780",
-    "staging": "2.0.6812-staging"
+    "staging": "2.0.6813-staging"
   },
   "Carbon": {
     "Production": "2.0.223",
     "Preview": "2.2.142",
-    "Edge": "2.1.1005",
+    "Edge": "2.1.1008",
     "Staging": "2.3.975",
     "Aux1": "2.5.506",
     "Aux2": "2.6.510",
