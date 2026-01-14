@@ -4,11 +4,11 @@
     "aux01": "21026880",
     "aux02": "20963797",
     "debug": "17041002",
-    "staging": "21499790"
+    "staging": "21500136"
   },
   "Oxide": {
     "public": "2.0.6864",
-    "staging": "2.0.6887-staging"
+    "staging": "2.0.6888-staging"
   },
   "Carbon": {
     "Production": "2.0.225",
