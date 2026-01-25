@@ -21,7 +21,7 @@
   },
   "MyRustServer": {
     "public": "public-5.1.3",
-    "beta": "beta-5.1.0"
+    "beta": "beta-5.9.0"
   },
   "Client": {
     "public": "21428443"
