@@ -3,17 +3,17 @@
     "public": "21664871",
     "aux01": "21502235",
     "aux02": "20963797",
-    "staging": "21784605"
+    "staging": "21785650"
   },
   "Oxide": {
     "public": "2.0.6926",
-    "staging": "2.0.6990-staging"
+    "staging": "2.0.6993-staging"
   },
   "Carbon": {
     "Production": "2.0.226",
     "Preview": "2.2.142",
-    "Edge": "2.1.1065",
-    "Staging": "2.3.1060",
+    "Edge": "2.1.1066",
+    "Staging": "2.3.1061",
     "Aux1": "2.5.506",
     "Aux2": "2.6.510",
     "Aux3": "2.7.223"
