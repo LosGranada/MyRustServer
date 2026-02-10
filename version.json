@@ -1,11 +1,5 @@
 {
-  "Server": {
-    "public": "21846743",
-    "aux01": "21800194",
-    "aux01-staging": "21502235",
-    "aux02": "21794607",
-    "staging": "21871526"
-  },
+  "Server": {},
   "Oxide": {
     "public": "2.0.7031",
     "staging": "2.0.7035-staging"
