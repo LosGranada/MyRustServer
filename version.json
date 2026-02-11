@@ -1,10 +1,25 @@
 {
   "Server": {
-    "public": "21846743",
-    "aux01": "21800194",
-    "aux01-staging": "21502235",
-    "aux02": "21794607",
-    "staging": "21884867"
+    "public": {
+      "buildid": "21846743",
+      "timeupdated": 1770734015
+    },
+    "aux01": {
+      "buildid": "21800194",
+      "timeupdated": 1770301958
+    },
+    "aux01-staging": {
+      "buildid": "21502235",
+      "timeupdated": 1768436960
+    },
+    "aux02": {
+      "buildid": "21794607",
+      "timeupdated": 1770276724
+    },
+    "staging": {
+      "buildid": "21884867",
+      "timeupdated": 1770820446
+    }
   },
   "Oxide": {
     "public": "2.0.7031",
