@@ -3,7 +3,7 @@
     "public": "21886084",
     "aux01": "21800194",
     "aux01-staging": "21502235",
-    "aux02": "21794607",
+    "aux02": "21922166",
     "staging": "21902218"
   },
   "Oxide": {
@@ -21,7 +21,7 @@
   },
   "MyRustServer": {
     "public": "public-5.1.3",
-    "beta": "beta-5.9.5"
+    "beta": "beta-5.9.4"
   },
   "Client": {
     "public": "21886569"
